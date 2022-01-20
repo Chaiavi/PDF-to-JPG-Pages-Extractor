@@ -5,6 +5,7 @@ SETLOCAL ENABLEDELAYEDEXPANSION
 if [%1]==[] GOTO USAGE
 
 REM Feel free to change the default values of the following variables in order to change the jpg output
+REM QUALITY is the percentage quality of the original, from 0 to 100, the higher the percentage the bigger the file will be
 set QUALITY=100
 set DPI=300
 
