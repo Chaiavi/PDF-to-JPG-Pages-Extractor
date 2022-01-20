@@ -10,4 +10,4 @@ This is a simple script which runs v9.55.0 of the highly efficient Ghostscript i
 
 In simple words, you will get the best conversions using this script, much better than other fully packed software packages
 
-### I took inspiration from kubaszostak repo [pdf-to-jpg](https://github.com/kubaszostak/pdf-to-jpg)
+***I took inspiration from kubaszostak repo [pdf-to-jpg](https://github.com/kubaszostak/pdf-to-jpg)***
